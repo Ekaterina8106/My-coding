@@ -1,0 +1,3 @@
+/home/ekaterina/Рабочий стол/ЭВМ 3 курс/Линейные системы/build/CMakeFiles/a.out.dir
+/home/ekaterina/Рабочий стол/ЭВМ 3 курс/Линейные системы/build/CMakeFiles/edit_cache.dir
+/home/ekaterina/Рабочий стол/ЭВМ 3 курс/Линейные системы/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/a.out.dir/src/main.cpp.o CMakeFiles/a.out.dir/src/matrix.cpp.o CMakeFiles/a.out.dir/src/inverse_gauss.cpp.o -o a.out
