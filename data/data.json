@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Pasta Carbonara",
+        "Ingredient": [
+            {"Name": "Макарошки", "Value": 200},
+            {"Name": "Яйцо", "Value": 2},
+            {"Name": "Бекон", "Value": 100},
+            {"Name": "Сыр", "Value": 50}
+        ],
+        "Time": 30,
+        "Cal": 550
+    },
+
+    {
+        "Name": "Salad",
+        "Ingredient": [
+            {"Name": "Помидор", "Value": 100},
+            {"Name": "Огурец", "Value": 100},
+            {"Name": "Перец", "Value": 50},
+            {"Name": "Оливковое масло", "Value": 20}
+        ],
+        "Time": 15,
+        "Cal": 120
+    },
+
+    {
+        "Name": "MSU",
+        "Ingredient": [
+            {"Name": "Мехмат", "Value": 400},
+            {"Name": "ВМК", "Value": 600},
+            {"Name": "Студенты", "Value": 2911},
+            {"Name": "Преподаватели", "Value": 100}
+        ],
+        "Time": 95,
+        "Cal": 1755
+    }
+]
+
